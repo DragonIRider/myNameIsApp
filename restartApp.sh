@@ -1,0 +1,2 @@
+./stopApp.sh
+./runApache.sh
